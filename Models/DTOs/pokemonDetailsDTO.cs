@@ -1,5 +1,5 @@
 namespace PokemonAPI.Modules.DTOs;
-public class PokemonDTO
+public class PokemonDetailsDTO
     {
         public int Id {get; set;}
 
@@ -8,5 +8,7 @@ public class PokemonDTO
         public decimal Price { get; set; }
 
         public int Rarity { get; set; }
+
+        public  int? Condition {get; set;}
 
     }
