@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRnvGpr9oBvgoLZsPBSXVdg1tcvxLLezur6jt5mYYrg1iKmhKBNzeZEY+m96/CMLqoGkCKFOsnmEZlbHIEZY7g==",
+  "dgSpecHash": "WGBcm8h7t/M7OYioSMb8w8W1XV6lGpECfcPXRH4ljnGwt1uBrxYXYag0G4i8splaAg5Cq6FmjTzDQJc/GNjAWw==",
   "success": true,
-  "projectFilePath": "/Users/gunnarebeling/workspace/csharp/sportsapi/sportsapi.csproj",
+  "projectFilePath": "/Users/gunnarebeling/workspace/csharp/pokemonapi/sportsapi.csproj",
   "expectedPackageFiles": [
     "/Users/gunnarebeling/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "/Users/gunnarebeling/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

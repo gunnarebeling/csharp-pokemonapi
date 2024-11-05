@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gunnarebeling/workspace/csharp/sportsapi/sportsapi.csproj",
+      "projectUniqueName": "/Users/gunnarebeling/workspace/csharp/pokemonapi/sportsapi.csproj",
       "projectName": "sportsapi",
-      "projectPath": "/Users/gunnarebeling/workspace/csharp/sportsapi/sportsapi.csproj",
+      "projectPath": "/Users/gunnarebeling/workspace/csharp/pokemonapi/sportsapi.csproj",
       "packagesPath": "/Users/gunnarebeling/.nuget/packages/",
-      "outputPath": "/Users/gunnarebeling/workspace/csharp/sportsapi/obj/",
+      "outputPath": "/Users/gunnarebeling/workspace/csharp/pokemonapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gunnarebeling/.nuget/NuGet/NuGet.Config"
